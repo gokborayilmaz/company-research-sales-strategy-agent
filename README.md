@@ -1,4 +1,4 @@
-# Company Research & Sales Strategy Agent
+# Company Research & Sales Strategy Agent (Every Day AI Agent Build in Public Twitter Series Day -7- Agent)
 
 A comprehensive Company Research and Sales Strategy Agent built with the **Upsonic AI Agent Framework**. This example demonstrates how to use `DeepAgent` with specialized subagents to conduct deep company research, analyze industry trends, perform financial analysis, and develop tailored sales strategies.
 
